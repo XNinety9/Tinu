@@ -1,0 +1,10 @@
+<list>
+	<software name="MAMP" version="2.2.1" size="172.37 Mb" url="http://www.mamp.info/downloads/releases/MAMP_PRO.zip" app_name="MAMP_2.2.pkg" actions="unzip;run" cat="Development" icon="mamp.png" desc="Install Apache, PHP and MySQL with few clicks under Mac OS X!"/>
+	<software name="Onyx" version="2.8.3" size="12.69 Mb" url="http://joel.barriere.pagesperso-orange.fr/dl/109/OnyX.dmg" app_name="OnyX.app" actions="mount;move" cat="Utilities" icon="onyx.png" desc="Onyx is an all-in-one tool to tweak, verify and maintain OSX."/>
+	<software name="OpenEmu" version="1.0.1" size="21.4 Mb" url="https://github.com/OpenEmu/OpenEmu/releases/download/v1.0.1/OpenEmu_1.0.1.zip" app_name="OpenEmu.app" actions="unzip;move" cat="Games" icon="openemu.png" desc="Multiple console emulator/ROM manager"/>
+	<software name="Pencil" version="2.0.6" size="32 Mb" url="https://evoluspencil.googlecode.com/files/Pencil-2.0.6-mac.tar.bz2" app_name="Pencil.app" actions="untar;move" cat="Development" icon="pencil.png" desc="Free UI designer"/>
+	<software name="Qt" version="5.2.1" size="378 Mb" url="http://download.qt-project.org/official_releases/qt/5.2/5.2.1/qt-opensource-mac-x64-clang-5.2.1.dmg" app_name="Qt Creator.app" actions="mount;run" cat="Development" icon="qtcreator.png" desc=""/>
+	<software name="Sublime Text" version="3 build 3059" size="9.7 Mb" url="http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203059.dmg" app_name="Sublime Text.app" actions="mount;move" cat="Development" icon="sublimetext.png" desc="An incredible text editor!"/>
+	<software name="VLC" version="2.1.4" size="33 Mb" url="http://ftp.free.org/mirrors/videolan/vlc/2.1.4/macosx/vlc-2.1.4.dmg" app_name="VLC.app" actions="mount;move" cat="Video" icon="vlc.png" desc="VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVD, Audio CD, VCD, and various streaming protocols."/>
+</list>
+
