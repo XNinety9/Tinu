@@ -8,5 +8,6 @@
         <file>rsc/AppIcon76x76.png</file>
         <file>rsc/AppIcon76x76@2x.png</file>
         <file>rsc/AppIconFull.png</file>
+        <file>rsc/octicons.ttf</file>
     </qresource>
 </RCC>

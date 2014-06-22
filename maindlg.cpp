@@ -6,8 +6,10 @@
 MainDlg::MainDlg(QWidget *parent) : QDialog(parent), ui(new Ui::MainDlg) {
     ui->setupUi(this);
 
+
+
     this->setWindowFlags(Qt::FramelessWindowHint);
-    //this->setWindowOpacity(0.95);
+    this->setWindowOpacity(0.95);
     this->setFixedSize(this->geometry().size());
 
     //prepare system tray icon

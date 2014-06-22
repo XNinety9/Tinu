@@ -16,6 +16,7 @@
 #include <QGraphicsBlurEffect>
 #include <QPainter>
 #include <QProgressBar>
+#include <QFontDatabase>
 
 #include "downloadqueuehandler.h"
 #include "downloadFileHandler.h"
